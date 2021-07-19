@@ -2,4 +2,4 @@
 Docu
 [link](test.md)
 
-![image](img/plixxent.jpg)
+![image](https://raw.githubusercontent.com/cloudweg/docu/main/img/plixxent.jpg)
